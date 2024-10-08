@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://dovabijicobu.pages.dev/sitemap.xml
